@@ -62,6 +62,7 @@ This model consists of:
 The details of this model implementation can be found in the **model8.py** in the function **my_model()**.
 
 **Here is the visualization of the model:**
+
 <figure>
     <img src="mymodel.png" width="300" alt="At Four Activation" align="left"/>
 </figure>
